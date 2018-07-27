@@ -1,0 +1,52 @@
+<application>
+  <component name="PropertiesComponent">
+    <property name="installed.kotlin.plugin.version" value="1.1.1-release-IJ2017.1-1" />
+    <property name="android-component-compatibility-check" value="1532307844593" />
+    <property name="file.chooser.recent.files" value="D:/QY/SVN2IEAD/bean&#10;D:/QY/SVN2IEAD/qydjk2.0_dev&#10;D:/W/W/XM/my/front_end&#10;D:/maven/apache-maven-3.5.0/conf/settings.xml&#10;D:/W/W/XM&#10;D:/soft/git/Git/bin/git.exe&#10;D:/soft/git/PortableGit-2.18.0-64-bit/bin/git.exe&#10;D:/maven/maven_edm/maven/apache-maven-3.5.0/conf/settings.xml&#10;D:/maven/maven_edm/maven/apache-maven-3.5.0&#10;D:/W/W/XM/my/EDM&#10;D:/maven/maven_edm/maven&#10;D:/QY/qydjk1.1（加入easyui、加入shiro、后台单独抽出来、ehcache）/qydjk&#10;D:/W/W/XM/my&#10;D:/QY&#10;D:/QY/SVN2IEAD/front&#10;D:/QY/SVN2IEAD/back&#10;D:/W/W/ZL/其他/pdf解析/cc&#10;D:/QY/SVN2IEAD/qydjk2.0_dev/qydjk-companypc/web/WEB-INF&#10;D:/tomcat/apache-tomcat-8.0.45-IDEA/apache-tomcat-8.0.45&#10;D:/QY/SVN2IEAD/back2.0&#10;D:/QY/SVN2IEAD&#10;D:/IdeaProjects/demo&#10;D:/maven/settings.xml&#10;D:/QY/SVN2IEAD/front/src/main/java/wap/physicalExaminationCard/PhysicalExaminationCardAction.java&#10;D:/QY/SVN2IEAD/qydjk_front&#10;D:/QY/SVN2IEAD/back2.0/qydjk-console/src/main/webapp/WEB-INF/pages/seller/sellerAppointment.jsp&#10;D:/JavaDevelop/JDK/jdk1.8.0_20&#10;D:/maven/repository&#10;D:/QY/SVN2IEAD/front_branch/release1.1_2017.10.24_branck&#10;D:/QY/SVN2IEAD/front_branch" />
+    <property name="DeploymentNotificationsComponent.WarnDisplayed.Java7&amp;Windows7FTPIssue" value="false" />
+    <property name="file.gist.reindex.count" value="68544" />
+    <property name="lastTip" value="81" />
+    <property name="ExpandBeforeRunStepsPanel" value="true" />
+    <property name="com.intellij.openapi.roots.ui.configuration.TabbedModuleEditor.selectedEditor" value="Sources" />
+    <property name="project.wizard.group" value="WEB_MODULE" />
+    <property name="spring.initializr.service.url.history" value="" />
+    <property name="spring.initializr.service.url.last" value="https://start.spring.io" />
+    <property name="project.wizard.template" value="Static Web" />
+    <property name="decompiler.legal.notice.accepted" value="true" />
+    <property name="SpringBeansModulesPanel[0]" value="0.2046227" />
+    <property name="MemberChooser.showClasses" value="true" />
+    <property name="MemberChooser.copyJavadoc" value="false" />
+    <property name="selected.color.option.type" value="TEXT" />
+    <property name="ColorChooser.RecentColors" value="199-237-204-255,,,218-237-212-255,,,255-66-22-255,,,0-255-20-255,,,255-17-236-255,,,22-13-255-255,,,177-177-184-255,,,212-212-219-255,,,186-186-186-255,,,119-119-126-255" />
+    <property name="com.intellij.diagnostic.IdeErrorsDialogactiveTab" value="1" />
+    <property name="Copy.OpenInEditor" value="false" />
+    <property name="FileTemplates.SelectedTemplate" value="ActionScript File Header" />
+    <property name="typescript.show.auto.import" value="true" />
+    <property name="last.imported.location" value="D:/QY/SVN2IEAD/front/pom.xml" />
+    <property name="create.project.preferred.importer" value="Existing Sources" />
+    <property name="CommitChangeListDialog.DETAILS_SPLITTER_PROPORTION_2" value="0.86020154" />
+    <property name="settings.code.style.selected.tab.CSS" value="Tabs and Indents" />
+    <property name="CommittedChanges.SplitterProportions.0" value="700" />
+    <property name="CommittedChanges.SplitterProportions.1" value="327" />
+    <property name="KEYMAP" value="split v&#10;line&#10;file in&#10;navigate&#10;*" />
+    <property name="com.intellij.history.integration.ui.views.FileHistoryDialog.0" value="143" />
+    <property name="SpringBeansModulesPanel[1]" value="0.1572327" />
+    <property name="IJ_BASE_PACKAGE" value="com.company" />
+    <property name="FrameworksFinderRecursivePanel[0]" value="0.2544529" />
+    <property name="com.intellij.history.integration.ui.views.DirectoryHistoryDialog.0" value="300" />
+    <property name="PLUGIN_FILTER" value="jr&#10;jrebel" />
+    <property name="MavenModuleWizard.inheritGroupId" value="true" />
+    <property name="MavenModuleWizard.inheritVersion" value="true" />
+    <property name="SqlStructureView.filterD.file.structure.state" value="true" />
+    <property name="settings.code.style.selected.tab.JAVA" value="JavaDoc" />
+    <property name="JUnitSupport.hidePassedTests" value="false" />
+    <property name="COMMITTED_CHANGES_FILTER_HISTORY" value="user" />
+    <property name="CommitChangeListDialog.SPLITTER_PROPORTION_2" value="0.8027842" />
+    <property name="SplitFileEditor.Proportion" value="0.58518517" />
+    <property name="fileTypeChangedCounter" value="1" />
+    <property name="ProjectStructure.SecondLevelElements" value="0.3265306" />
+    <property name="INTENTION_FILTER_HISTORY" value="local va" />
+    <property name="LOG_FILTER_HISTORY" value="" />
+    <property name="FileTemplates.CurrentTab" value="Includes" />
+  </component>
+</application>

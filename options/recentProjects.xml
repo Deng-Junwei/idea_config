@@ -1,0 +1,377 @@
+<application>
+  <component name="RecentProjectsManager">
+    <option name="recentPaths">
+      <list>
+        <option value="D:\W\W\XM\edm-java" />
+        <option value="D:\QY\SVN2IEAD\bean" />
+        <option value="D:\QY\SVN2IEAD\qydjk2.0_dev" />
+        <option value="D:\W\W\XM\my\front_end" />
+        <option value="D:\W\W\XM\my\EDM" />
+        <option value="D:\QY\qydjk1.1（加入easyui、加入shiro、后台单独抽出来、ehcache）\qydjk" />
+        <option value="D:\W\W\XM\my" />
+        <option value="D:\QY" />
+        <option value="D:\QY\SVN2IEAD\front" />
+        <option value="D:\IdeaProjects\comprehensive" />
+        <option value="D:\QY\SVN2IEAD\back" />
+        <option value="D:\W\W\ZL\其他\pdf解析\cc" />
+        <option value="D:\QY\SVN2IEAD\back2.0" />
+        <option value="D:\IdeaProjects\demo" />
+        <option value="D:\IdeaProjects\girl" />
+        <option value="D:\IdeaProjects\cat" />
+        <option value="D:\IdeaProjects\m" />
+      </list>
+    </option>
+    <option name="openPaths">
+      <list>
+        <option value="D:\QY\SVN2IEAD\bean" />
+      </list>
+    </option>
+    <option name="lastPath" value="D:\W\W\XM\edm-java" />
+    <option name="additionalInfo">
+      <map>
+        <entry key="D:\IdeaProjects">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-171.4249.39" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="D:\Program Files\IntelliJ IDEA 2017.1.2\bin" />
+              <option name="projectOpenTimestamp" value="1500021145595" />
+              <option name="buildTimestamp" value="1493104385701" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:\IdeaProjects\bean">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-171.4249.39" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="D:\Program Files\IntelliJ IDEA 2017.1.2\bin" />
+              <option name="projectOpenTimestamp" value="1512985922350" />
+              <option name="buildTimestamp" value="1493104403803" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:\IdeaProjects\cat">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-171.4249.39" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="D:\Program Files\IntelliJ IDEA 2017.1.2\bin" />
+              <option name="projectOpenTimestamp" value="1500253482623" />
+              <option name="buildTimestamp" value="1493104394958" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:\IdeaProjects\comprehensive">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-171.4249.39" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="D:\Program Files\IntelliJ IDEA 2017.1.2\bin" />
+              <option name="projectOpenTimestamp" value="1528852363804" />
+              <option name="buildTimestamp" value="1493104423620" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:\IdeaProjects\demo">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-171.4249.39" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="D:\Program Files\IntelliJ IDEA 2017.1.2\bin" />
+              <option name="projectOpenTimestamp" value="1524132415543" />
+              <option name="buildTimestamp" value="1493104435646" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:\IdeaProjects\demosb">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-171.4249.39" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="D:\Program Files\IntelliJ IDEA 2017.1.2\bin" />
+              <option name="projectOpenTimestamp" value="1500024988034" />
+              <option name="buildTimestamp" value="1493104439183" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:\IdeaProjects\demosb2">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-171.4249.39" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="D:\Program Files\IntelliJ IDEA 2017.1.2\bin" />
+              <option name="projectOpenTimestamp" value="1500025886773" />
+              <option name="buildTimestamp" value="1493104439183" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:\IdeaProjects\demosb3">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-171.4249.39" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="D:\Program Files\IntelliJ IDEA 2017.1.2\bin" />
+              <option name="projectOpenTimestamp" value="1500089670644" />
+              <option name="buildTimestamp" value="1493104381358" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:\IdeaProjects\deng_junwei">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-171.4249.39" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="D:\Program Files\IntelliJ IDEA 2017.1.2\bin" />
+              <option name="projectOpenTimestamp" value="1500108363626" />
+              <option name="buildTimestamp" value="1493104436952" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:\IdeaProjects\dengjunwei">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-171.4249.39" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="D:\Program Files\IntelliJ IDEA 2017.1.2\bin" />
+              <option name="projectOpenTimestamp" value="1500092844884" />
+              <option name="buildTimestamp" value="1493104404920" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:\IdeaProjects\girl">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-171.4249.39" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="D:\Program Files\IntelliJ IDEA 2017.1.2\bin" />
+              <option name="projectOpenTimestamp" value="1523930324260" />
+              <option name="buildTimestamp" value="1493104420670" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:\IdeaProjects\m">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-171.4249.39" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="D:\Program Files\IntelliJ IDEA 2017.1.2\bin" />
+              <option name="projectOpenTimestamp" value="1500181053343" />
+              <option name="buildTimestamp" value="1493104408290" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:\IdeaProjects\springboot">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-171.4249.39" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="D:\Program Files\IntelliJ IDEA 2017.1.2\bin" />
+              <option name="projectOpenTimestamp" value="1500088763017" />
+              <option name="buildTimestamp" value="1493104381104" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:\IdeaProjects\untitled">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-171.4249.39" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="D:\Program Files\IntelliJ IDEA 2017.1.2\bin" />
+              <option name="projectOpenTimestamp" value="1509956082609" />
+              <option name="buildTimestamp" value="1493104380063" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:\QY">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-171.4249.39" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="D:\Program Files\IntelliJ IDEA 2017.1.2\bin" />
+              <option name="projectOpenTimestamp" value="1530671601725" />
+              <option name="buildTimestamp" value="1493104435928" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:\QY\56SVN\front">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-171.4249.39" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="D:\Program Files\IntelliJ IDEA 2017.1.2\bin" />
+              <option name="projectOpenTimestamp" value="1508829514030" />
+              <option name="buildTimestamp" value="1493104432985" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:\QY\SVN2IEAD\back">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-171.4249.39" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="D:\Program Files\IntelliJ IDEA 2017.1.2\bin" />
+              <option name="projectOpenTimestamp" value="1528711479956" />
+              <option name="buildTimestamp" value="1493104402284" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:\QY\SVN2IEAD\back2.0">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-171.4249.39" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="D:\Program Files\IntelliJ IDEA 2017.1.2\bin" />
+              <option name="projectOpenTimestamp" value="1525324509394" />
+              <option name="buildTimestamp" value="1493104422022" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:\QY\SVN2IEAD\bean">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-171.4249.39" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="D:\Program Files\IntelliJ IDEA 2017.1.2\bin" />
+              <option name="projectOpenTimestamp" value="1532670547105" />
+              <option name="buildTimestamp" value="1493104408984" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:\QY\SVN2IEAD\front">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-171.4249.39" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="D:\Program Files\IntelliJ IDEA 2017.1.2\bin" />
+              <option name="projectOpenTimestamp" value="1529402632734" />
+              <option name="buildTimestamp" value="1493104436576" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:\QY\SVN2IEAD\front_branch">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-171.4249.39" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="D:\Program Files\IntelliJ IDEA 2017.1.2\bin" />
+              <option name="projectOpenTimestamp" value="1509850128745" />
+              <option name="buildTimestamp" value="1493104380063" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:\QY\SVN2IEAD\front_branch\release1.1_2017.10.24_branck">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-171.4249.39" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="D:\Program Files\IntelliJ IDEA 2017.1.2\bin" />
+              <option name="projectOpenTimestamp" value="1509850242098" />
+              <option name="buildTimestamp" value="1493104380063" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:\QY\SVN2IEAD\qydjk2.0_dev">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-171.4249.39" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="D:\Program Files\IntelliJ IDEA 2017.1.2\bin" />
+              <option name="projectOpenTimestamp" value="1532599304736" />
+              <option name="buildTimestamp" value="1493104430737" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:\QY\SVN2IEAD\qydjk_front">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-171.4249.39" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="D:\Program Files\IntelliJ IDEA 2017.1.2\bin" />
+              <option name="projectOpenTimestamp" value="1519626501670" />
+              <option name="buildTimestamp" value="1493104390104" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:\QY\qydjk1.1（加入easyui、加入shiro、后台单独抽出来、ehcache）\qydjk">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-171.4249.39" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="D:\Program Files\IntelliJ IDEA 2017.1.2\bin" />
+              <option name="projectOpenTimestamp" value="1531726754102" />
+              <option name="buildTimestamp" value="1493104390488" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:\W\W\XM\edm-java">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-171.4249.39" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="D:\Program Files\IntelliJ IDEA 2017.1.2\bin" />
+              <option name="projectOpenTimestamp" value="1532670580661" />
+              <option name="buildTimestamp" value="1493104412768" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:\W\W\XM\my">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-171.4249.39" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="D:\Program Files\IntelliJ IDEA 2017.1.2\bin" />
+              <option name="projectOpenTimestamp" value="1530685257648" />
+              <option name="buildTimestamp" value="1493104435928" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:\W\W\XM\my\EDM">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-171.4249.39" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="D:\Program Files\IntelliJ IDEA 2017.1.2\bin" />
+              <option name="projectOpenTimestamp" value="1531733581347" />
+              <option name="buildTimestamp" value="1493104434213" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:\W\W\XM\my\front_end">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-171.4249.39" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="D:\Program Files\IntelliJ IDEA 2017.1.2\bin" />
+              <option name="projectOpenTimestamp" value="1532337138221" />
+              <option name="buildTimestamp" value="1493104382655" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:\W\W\ZL\其他\pdf解析\cc">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-171.4249.39" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="D:\Program Files\IntelliJ IDEA 2017.1.2\bin" />
+              <option name="projectOpenTimestamp" value="1526277660571" />
+              <option name="buildTimestamp" value="1493104429447" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:\sts-works\basicSale_b2b2c_front">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-171.4249.39" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="D:\Program Files\IntelliJ IDEA 2017.1.2\bin" />
+              <option name="projectOpenTimestamp" value="1494897824873" />
+              <option name="buildTimestamp" value="1493104419992" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="lastProjectLocation" value="D:/W/W/XM/my" />
+  </component>
+</application>

@@ -1,0 +1,443 @@
+<application>
+  <component name="StatisticsApplicationUsages">
+    <group name="svn working copy format">
+      <project id="basicSale_b2b2c_front" values="1.8" collectionTime="1529402637253" />
+      <project id="qydjk2.0_dev" values="1.8" collectionTime="1532599307825" />
+      <project id="girl" values="1.8" collectionTime="1523930521404" />
+      <project id="back2.0" values="1.8" collectionTime="1525324586278" />
+      <project id="front" values="1.8" collectionTime="1508829671640" />
+      <project id="basicSale_b2b2c_back" values="1.8" collectionTime="1528711484595" />
+    </group>
+    <group name="JavaScript versions">
+      <project id="m" values="ECMAScript 5.1" collectionTime="1500181038366" />
+      <project id="IdeaProjects" values="ECMAScript 5.1" collectionTime="1500023209878" />
+      <project id="edm-java" values="ECMAScript 5.1" collectionTime="1532670547083" />
+      <project id="demosb2" values="ECMAScript 5.1" collectionTime="1500025890151" />
+      <project id="demo" values="ECMAScript 5.1" collectionTime="1524132467988" />
+      <project id="back2.0" values="ECMAScript 5.1" collectionTime="1525324586279" />
+      <project id="basicSale_b2b2c_front" values="ECMAScript 5.1" collectionTime="1529402637253" />
+      <project id="qydjk" values="ECMAScript 5.1" collectionTime="1531726760909" />
+      <project id="basicSale_b2b2c_back" values="ECMAScript 5.1" collectionTime="1528711484595" />
+      <project id="my" values="ECMAScript 5.1" collectionTime="1530685271664" />
+      <project id="front" values="ECMAScript 5.1" collectionTime="1508829671640" />
+      <project id="comprehensive" values="ECMAScript 5.1" collectionTime="1528908975033" />
+      <project id="dengjunwei" values="ECMAScript 5.1" collectionTime="1500093214917" />
+      <project id="springboot" values="ECMAScript 5.1" collectionTime="1500089620474" />
+      <project id="front_end" values="ECMAScript 5.1" collectionTime="1532340049565" />
+      <project id="bean" values="ECMAScript 5.1" collectionTime="1532670550468" />
+      <project id="front_branch" values="ECMAScript 5.1" collectionTime="1509867714496" />
+      <project id="girl" values="ECMAScript 5.1" collectionTime="1523930521405" />
+      <project id="demosb3" values="ECMAScript 5.1" collectionTime="1500089738656" />
+      <project id="cat" values="ECMAScript 5.1" collectionTime="1500295746339" />
+      <project id="EDM" values="ECMAScript 5.1" collectionTime="1531735338036" />
+      <project id="demosb" values="ECMAScript 5.1" collectionTime="1500025886761" />
+      <project id="deng_junwei" values="ECMAScript 5.1" collectionTime="1500123559626" />
+      <project id="qydjk2.0_dev" values="ECMAScript 5.1" collectionTime="1532599307825" />
+    </group>
+    <group name="module type">
+      <project id="m" values="JAVA_MODULE" collectionTime="1500181038095" />
+      <project id="IdeaProjects" values="JAVA_MODULE" collectionTime="1500023209859" />
+      <project id="edm-java" values="JAVA_MODULE" collectionTime="1532670546712" />
+      <project id="demo" values="JAVA_MODULE" collectionTime="1524132467961" />
+      <project id="cat" values="JAVA_MODULE" collectionTime="1500295746300" />
+      <project id="back2.0" values="JAVA_MODULE" collectionTime="1525324586171" />
+      <project id="basicSale_b2b2c_front" values="JAVA_MODULE" collectionTime="1529402637122" />
+      <project id="qydjk" values="JAVA_MODULE" collectionTime="1531726760845" />
+      <project id="basicSale_b2b2c_back" values="JAVA_MODULE" collectionTime="1528711484547" />
+      <project id="my" values="JAVA_MODULE" collectionTime="1530685271652" />
+      <project id="front" values="JAVA_MODULE" collectionTime="1508829671580" />
+      <project id="comprehensive" values="JAVA_MODULE" collectionTime="1528908974872" />
+      <project id="dengjunwei" values="JAVA_MODULE" collectionTime="1500093214687" />
+      <project id="front_end" values="WEB_MODULE" collectionTime="1532340049534" />
+      <project id="bean" values="JAVA_MODULE" collectionTime="1532670550423" />
+      <project id="springboot" values="JAVA_MODULE" collectionTime="1500089620240" />
+      <project id="girl" values="JAVA_MODULE" collectionTime="1523930521265" />
+      <project id="demosb3" values="JAVA_MODULE" collectionTime="1500089738597" />
+      <project id="demosb2" values="JAVA_MODULE" collectionTime="1500025890123" />
+      <project id="EDM" values="JAVA_MODULE" collectionTime="1531735337678" />
+      <project id="demosb" values="JAVA_MODULE" collectionTime="1500025886493" />
+      <project id="deng_junwei" values="JAVA_MODULE" collectionTime="1500123559583" />
+      <project id="qydjk2.0_dev" values="JAVA_MODULE" collectionTime="1532599307584" />
+    </group>
+    <group name="vcs">
+      <project id="basicSale_b2b2c_front" values="svn" collectionTime="1529402637122" />
+      <project id="edm-java" values="Git" collectionTime="1532670546711" />
+      <project id="qydjk2.0_dev" values="svn" collectionTime="1532599307584" />
+      <project id="girl" values="svn" collectionTime="1523930521264" />
+      <project id="back2.0" values="svn" collectionTime="1525324586169" />
+      <project id="front" values="svn" collectionTime="1508829671580" />
+      <project id="basicSale_b2b2c_back" values="svn" collectionTime="1528711484547" />
+    </group>
+    <group name="Spring Boot">
+      <project id="demosb3" values="SpringBootModulesPerProject_1,application.properties" collectionTime="1500089738686" />
+      <project id="dengjunwei" values="application.properties,SpringBootModulesPerProject_1" collectionTime="1500093214923" />
+      <project id="deng_junwei" values="application.yml,SpringBootModulesPerProject_1" collectionTime="1500123559680" />
+      <project id="m" values="SpringBootModulesPerProject_1,application.properties" collectionTime="1500181038396" />
+      <project id="girl" values="application.yml,ConfigurationProperties_1,SpringBootModulesPerProject_1" collectionTime="1523930521414" />
+      <project id="cat" values="SpringBootModulesPerProject_1,application.yml" collectionTime="1500295746342" />
+      <project id="comprehensive" values="application.properties,SpringBootModulesPerProject_1" collectionTime="1528908975118" />
+    </group>
+    <group name="VCS Log Ui Settings">
+      <project id="edm-java" values="ui.highlighter.MY_COMMITS.enabled,ui.highlighter.CURRENT_BRANCH.enabled,ui.labels.showTagNames.disabled,ui.textFilter.matchCase.disabled,ui.sort.linear.bek.disabled,ui.details.enabled,ui.highlighter.MERGE_COMMITS.enabled,ui.sort.bek.disabled,ui.textFilter.regex.disabled,ui.labels.compact.enabled,ui.sort.normal.enabled,ui.long.edges.disabled" collectionTime="1532670546889" />
+    </group>
+    <group name="VCS Log 2">
+      <project id="edm-java" values="data.users.count.1+,data.git.root.count.1,data.branches.count.1+,data.commit.count.1+" collectionTime="1532670546889" />
+    </group>
+    <group name="run-configuration-type-temp">
+      <project id="back2.0" values="JUnit" collectionTime="1525324586172" />
+      <project id="qydjk" values="Application" collectionTime="1531726760845" />
+      <project id="basicSale_b2b2c_front" values="Application" collectionTime="1529402637122" />
+      <project id="qydjk2.0_dev" values="JUnit" collectionTime="1532599307584" />
+    </group>
+    <group name="file-type">
+      <project id="m" values="ARCHIVE,PLAIN_TEXT,IDEA_MODULE,JAVA,Properties,XML" collectionTime="1500181038157" />
+      <project id="IdeaProjects" values="YAML,JAVA,CLASS,Properties,IDEA_MODULE,ARCHIVE,HTML,PLAIN_TEXT,XML" collectionTime="1500023209873" />
+      <project id="edm-java" values="PLAIN_TEXT,Properties,JSP,SourceMap,UNKNOWN,JAVA,XML,SQL,JSON,HTML,SWF,CSS,JavaScript,Images,IDEA_MODULE,Markdown" collectionTime="1532670546851" />
+      <project id="demo" values="XML,JAVA,IDEA_MODULE" collectionTime="1524132467985" />
+      <project id="cat" values="YAML,Properties,XML,IDEA_MODULE,JAVA,PLAIN_TEXT,ARCHIVE" collectionTime="1500295746332" />
+      <project id="back2.0" values="HTML,CSS,JavaScript,PLAIN_TEXT,Properties,IDEA_MODULE,SourceMap,Images,JSP,SWF,JAVA,XML,Markdown,SQL,UNKNOWN,Less,JSON" collectionTime="1525324586237" />
+      <project id="basicSale_b2b2c_front" values="XML,SQL,Less,HTML,PLAIN_TEXT,JSON,IDEA_MODULE,UNKNOWN,ARCHIVE,JSP,FTL,Properties,CSS,Images,JavaScript,SourceMap,Markdown,JAVA,YAML,SWF" collectionTime="1529402637238" />
+      <project id="qydjk" values="SWF,CSS,HTML,SourceMap,JAVA,IDEA_MODULE,JSP,Properties,Images,XML,JavaScript,UNKNOWN" collectionTime="1531726760883" />
+      <project id="basicSale_b2b2c_back" values="ARCHIVE,IDEA_MODULE,XML,HTML,Properties,CSS,UNKNOWN,PLAIN_TEXT,JAVA,Manifest,JavaScript,JSP,Images" collectionTime="1528711484588" />
+      <project id="my" values="IDEA_MODULE,HTML,XML" collectionTime="1530685271662" />
+      <project id="front" values="FTL,Native,JAVA,JavaScript,UNKNOWN,IDEA_MODULE,Properties,JSP,SWF,Eclipse,Images,HTML,ARCHIVE,PLAIN_TEXT,XML,CSS" collectionTime="1508829671634" />
+      <project id="comprehensive" values="PLAIN_TEXT,ARCHIVE,Properties,JAVA,IDEA_MODULE,XML" collectionTime="1528908974950" />
+      <project id="dengjunwei" values="XML,JAVA,ARCHIVE,Properties,IDEA_MODULE,PLAIN_TEXT" collectionTime="1500093214754" />
+      <project id="front_end" values="IDEA_MODULE,Images,HTML" collectionTime="1532340049561" />
+      <project id="bean" values="IDEA_MODULE,ARCHIVE,XML" collectionTime="1532670550466" />
+      <project id="springboot" values="Properties,PLAIN_TEXT,XML,IDEA_MODULE,ARCHIVE,JAVA" collectionTime="1500089620277" />
+      <project id="girl" values="SQL,HTML,JavaScript,Markdown,SWF,JAVA,PLAIN_TEXT,UNKNOWN,CSS,Less,Properties,SourceMap,IDEA_MODULE,XML,Images,FTL,JSP,ARCHIVE,YAML,JSON" collectionTime="1523930521343" />
+      <project id="demosb3" values="IDEA_MODULE,XML,ARCHIVE,PLAIN_TEXT,Properties,JAVA" collectionTime="1500089738647" />
+      <project id="demosb2" values="IDEA_MODULE" collectionTime="1500025890148" />
+      <project id="EDM" values="JAVA,Images,JSP,XML,JavaScript,CSS,SourceMap,HTML,SWF,SQL,IDEA_MODULE,PLAIN_TEXT,Properties,UNKNOWN,JSON" collectionTime="1531735337757" />
+      <project id="demosb" values="IDEA_MODULE,Properties,ARCHIVE,PLAIN_TEXT,JAVA,XML" collectionTime="1500025886529" />
+      <project id="deng_junwei" values="ARCHIVE,XML,IDEA_MODULE,Properties,JAVA,PLAIN_TEXT,YAML" collectionTime="1500123559620" />
+      <project id="qydjk2.0_dev" values="JSON,CSS,XML,Native,JavaScript,Properties,SourceMap,PLAIN_TEXT,Markdown,JSP,SWF,Less,HTML,UNKNOWN,IDEA_MODULE,SQL,Images,JAVA" collectionTime="1532599307641" />
+    </group>
+    <group name="images.ide.background">
+      <project id="m" values="frame 0,editor 0" collectionTime="1500181038201" />
+      <project id="IdeaProjects" values="frame 0,editor 0" collectionTime="1500023209874" />
+      <project id="edm-java" values="frame 0,editor 0" collectionTime="1532670546889" />
+      <project id="demosb2" values="editor 0,frame 0" collectionTime="1500025890148" />
+      <project id="demo" values="frame 0,editor 0" collectionTime="1524132467986" />
+      <project id="back2.0" values="frame 0,editor 0" collectionTime="1525324586270" />
+      <project id="basicSale_b2b2c_front" values="editor 0,frame 0" collectionTime="1529402637246" />
+      <project id="qydjk" values="frame 0,editor 0" collectionTime="1531726760905" />
+      <project id="basicSale_b2b2c_back" values="frame 0,editor 0" collectionTime="1528711484591" />
+      <project id="my" values="frame 0,editor 0" collectionTime="1530685271663" />
+      <project id="front" values="frame 0,editor 0" collectionTime="1508829671635" />
+      <project id="comprehensive" values="editor 0,frame 0" collectionTime="1528908975022" />
+      <project id="dengjunwei" values="editor 0,frame 0" collectionTime="1500093214770" />
+      <project id="springboot" values="frame 0,editor 0" collectionTime="1500089620281" />
+      <project id="front_end" values="editor 0,frame 0" collectionTime="1532340049562" />
+      <project id="bean" values="editor 0,frame 0" collectionTime="1532670550467" />
+      <project id="front_branch" values="frame 0,editor 0" collectionTime="1509867714495" />
+      <project id="girl" values="editor 0,frame 0" collectionTime="1523930521383" />
+      <project id="demosb3" values="editor 0,frame 0" collectionTime="1500089738651" />
+      <project id="cat" values="frame 0,editor 0" collectionTime="1500295746332" />
+      <project id="EDM" values="frame 0,editor 0" collectionTime="1531735337840" />
+      <project id="demosb" values="editor 0,frame 0" collectionTime="1500025886531" />
+      <project id="deng_junwei" values="editor 0,frame 0" collectionTime="1500123559621" />
+      <project id="qydjk2.0_dev" values="editor 0,frame 0" collectionTime="1532599307822" />
+    </group>
+    <group name="run-configuration-type">
+      <project id="m" values="SpringBootApplicationConfigurationType" collectionTime="1500181038096" />
+      <project id="edm-java" values="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory.Local" collectionTime="1532670546713" />
+      <project id="basicSale_b2b2c_back" values="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory.Local" collectionTime="1528711484547" />
+      <project id="back2.0" values="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory.Local" collectionTime="1525324586172" />
+      <project id="basicSale_b2b2c_front" values="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory.Local" collectionTime="1529402637122" />
+      <project id="qydjk" values="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory.Local" collectionTime="1531726760845" />
+      <project id="deng_junwei" values="SpringBootApplicationConfigurationType" collectionTime="1500123559583" />
+      <project id="front" values="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory.Local" collectionTime="1508829671580" />
+      <project id="comprehensive" values="SpringBootApplicationConfigurationType" collectionTime="1528908974872" />
+      <project id="EDM" values="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory.Local" collectionTime="1531735337679" />
+      <project id="girl" values="SpringBootApplicationConfigurationType" collectionTime="1523930521266" />
+      <project id="demosb3" values="SpringBootApplicationConfigurationType" collectionTime="1500089738597" />
+      <project id="cat" values="SpringBootApplicationConfigurationType" collectionTime="1500295746300" />
+      <project id="dengjunwei" values="SpringBootApplicationConfigurationType" collectionTime="1500093214688" />
+      <project id="qydjk2.0_dev" values="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory.Local" collectionTime="1532599307584" />
+    </group>
+    <group name="module-language-level">
+      <project id="m" values="JDK_1_7" collectionTime="1500181038226" />
+      <project id="IdeaProjects" values="JDK_1_8" collectionTime="1500023209877" />
+      <project id="edm-java" values="JDK_1_8" collectionTime="1532670546894" />
+      <project id="demo" values="JDK_1_5,JDK_1_7" collectionTime="1524132467987" />
+      <project id="cat" values="JDK_1_7" collectionTime="1500295746339" />
+      <project id="back2.0" values="JDK_1_8" collectionTime="1525324586276" />
+      <project id="basicSale_b2b2c_front" values="JDK_1_7" collectionTime="1529402637253" />
+      <project id="qydjk" values="JDK_1_8,JDK_1_5" collectionTime="1531726760909" />
+      <project id="basicSale_b2b2c_back" values="JDK_1_7" collectionTime="1528711484595" />
+      <project id="my" values="JDK_1_8" collectionTime="1530685271664" />
+      <project id="front" values="JDK_1_7" collectionTime="1508829671640" />
+      <project id="comprehensive" values="JDK_1_8" collectionTime="1528908975025" />
+      <project id="dengjunwei" values="JDK_1_7" collectionTime="1500093214775" />
+      <project id="front_end" values="JDK_1_8" collectionTime="1532340049563" />
+      <project id="bean" values="JDK_1_5" collectionTime="1532670550468" />
+      <project id="springboot" values="JDK_1_7" collectionTime="1500089620284" />
+      <project id="girl" values="JDK_1_7" collectionTime="1523930521402" />
+      <project id="demosb3" values="JDK_1_7" collectionTime="1500089738655" />
+      <project id="demosb2" values="JDK_1_7" collectionTime="1500025890150" />
+      <project id="EDM" values="JDK_1_8" collectionTime="1531735337847" />
+      <project id="demosb" values="JDK_1_7" collectionTime="1500025886534" />
+      <project id="deng_junwei" values="JDK_1_7" collectionTime="1500123559625" />
+      <project id="qydjk2.0_dev" values="JDK_1_8" collectionTime="1532599307824" />
+    </group>
+    <group name="jdbc-datasource">
+      <project id="bean" values="MySQL/5.6.37-log" collectionTime="1532670550469" />
+      <project id="qydjk2.0_dev" values="MySQL/5.6.37-log" collectionTime="1532599307825" />
+    </group>
+    <group name="Editor">
+      <project id="demo" values="autoOptimizeImports" collectionTime="1524132467986" />
+      <project id="my" values="autoOptimizeImports" collectionTime="1530685271663" />
+      <project id="front_end" values="autoOptimizeImports" collectionTime="1532340049562" />
+      <project id="back2.0" values="autoOptimizeImports" collectionTime="1525324586237" />
+      <project id="m" values="autoOptimizeImports" collectionTime="1500181038158" />
+      <project id="bean" values="autoOptimizeImports" collectionTime="1532670550466" />
+      <project id="cat" values="autoOptimizeImports" collectionTime="1500295746332" />
+      <project id="comprehensive" values="autoOptimizeImports" collectionTime="1528908974950" />
+    </group>
+    <group name="Spring MVC">
+      <project id="edm-java" values="viewResolver_UrlBasedViewResolver_.jsp,viewResolvers_1,viewResolver_UrlBasedViewResolver_.jsp,fileset_webXml,mvcModelsInProject_2,fileset_webXml,fileset_webXml,fileset_webXml,viewResolvers_1" collectionTime="1532670547101" />
+      <project id="qydjk" values="viewResolver_UrlBasedViewResolver_.jsp,viewResolvers_1,fileset_webXml,viewResolvers_1,viewResolvers_1,mvcModelsInProject_4,fileset_webXml,viewResolvers_1,fileset_webXml,fileset_webXml,viewResolver_UrlBasedViewResolver_.jsp,viewResolver_UrlBasedViewResolver_.jsp,fileset_webXml,viewResolver_UrlBasedViewResolver_.jsp,fileset_webXml,fileset_webXml,fileset_webXml" collectionTime="1531726760961" />
+      <project id="qydjk2.0_dev" values="viewResolvers_1,fileset_webXml,viewResolver_UrlBasedViewResolver_.jsp,viewResolver_CompositeViewResolver[],viewResolvers_1,viewResolver_UrlBasedViewResolver_.jsp,fileset_webXml,viewResolver_UrlBasedViewResolver_.jsp,viewResolver_UrlBasedViewResolver_.jsp,fileset_webXml,fileset_webXml,fileset_webXml,fileset_webXml,viewResolvers_2,fileset_webXml,fileset_webXml,fileset_webXml,fileset_webXml,viewResolvers_1,viewResolver_UrlBasedViewResolver_.jsp,mvcModelsInProject_7,fileset_webXml,fileset_webXml,fileset_webXml,viewResolver_CompositeViewResolver[],fileset_webXml,viewResolver_UrlBasedViewResolver_.jsp,viewResolvers_1,viewResolvers_1,viewResolver_UrlBasedViewResolver_.jsp,viewResolvers_2" collectionTime="1532599308699" />
+      <project id="girl" values="mvcModelsInProject_0" collectionTime="1523930521412" />
+      <project id="back2.0" values="fileset_webXml,viewResolver_UrlBasedViewResolver_.jsp,viewResolver_CompositeViewResolver[],viewResolvers_1,fileset_webXml,fileset_webXml,viewResolver_UrlBasedViewResolver_.jsp,fileset_webXml,fileset_webXml,fileset_webXml,viewResolver_UrlBasedViewResolver_.jsp,viewResolver_UrlBasedViewResolver_.jsp,mvcModelsInProject_6,viewResolvers_1,viewResolvers_2,viewResolvers_2,fileset_webXml,fileset_webXml,viewResolver_CompositeViewResolver[],fileset_webXml,viewResolvers_1,viewResolvers_1,fileset_webXml,fileset_webXml,viewResolver_UrlBasedViewResolver_.jsp,viewResolver_UrlBasedViewResolver_.jsp,fileset_webXml" collectionTime="1525324586347" />
+      <project id="EDM" values="viewResolvers_1,viewResolver_UrlBasedViewResolver_.jsp,mvcModelsInProject_1,fileset_webXml,fileset_webXml" collectionTime="1531735338456" />
+    </group>
+    <group name="jdbc-driver">
+      <project id="back2.0" values="com.mysql.jdbc.Driver" collectionTime="1525324586279" />
+      <project id="qydjk2.0_dev" values="com.mysql.jdbc.Driver" collectionTime="1532599307825" />
+      <project id="bean" values="com.mysql.jdbc.Driver" collectionTime="1532670550469" />
+    </group>
+    <group name="spring">
+      <project id="m" values="fileset_autodetect_com.intellij.spring.boot.model.SpringBootFileSet" collectionTime="1500181038391" />
+      <project id="edm-java" values="fileset_autodetect_NONE,fileset_autodetect_NONE,fileset_autodetect_com.intellij.spring.web.config.ServletFileSet,fileset_autodetect_com.intellij.spring.web.config.ServletFileSet,fileset_autodetect_com.intellij.spring.web.config.ServletFileSet,fileset_autodetect_com.intellij.spring.web.config.ServletFileSet" collectionTime="1532670547086" />
+      <project id="back2.0" values="fileset_autodetect_com.intellij.spring.web.config.ServletFileSet,fileset_autodetect_com.intellij.spring.web.config.ServletFileSet,fileset_autodetect_com.intellij.spring.web.config.ServletFileSet,fileset_autodetect_com.intellij.spring.web.config.ServletFileSet,fileset_autodetect_com.intellij.spring.web.config.ServletFileSet,fileset_autodetect_NONE,fileset_autodetect_com.intellij.spring.web.config.ServletFileSet,fileset_autodetect_com.intellij.spring.web.config.ServletFileSet,fileset_autodetect_NONE,fileset_autodetect_com.intellij.spring.web.config.ServletFileSet,fileset_autodetect_com.intellij.spring.web.config.ServletFileSet,fileset_autodetect_com.intellij.spring.web.config.ServletFileSet,fileset_autodetect_com.intellij.spring.web.config.ServletFileSet,fileset_autodetect_com.intellij.spring.web.config.ServletFileSet" collectionTime="1525324586283" />
+      <project id="basicSale_b2b2c_front" values="fileset_autodetect_NONE" collectionTime="1529402637253" />
+      <project id="qydjk" values="fileset_autodetect_com.intellij.spring.web.config.ServletFileSet,fileset_autodetect_com.intellij.spring.web.config.ServletFileSet,fileset_autodetect_com.intellij.spring.web.config.ServletFileSet,fileset_autodetect_NONE,fileset_autodetect_NONE,fileset_autodetect_com.intellij.spring.web.config.ServletFileSet,fileset_autodetect_com.intellij.spring.web.config.ServletFileSet,fileset_autodetect_com.intellij.spring.web.config.ServletFileSet,fileset_autodetect_com.intellij.spring.web.config.ServletFileSet,fileset_autodetect_com.intellij.spring.web.config.ServletFileSet" collectionTime="1531726760910" />
+      <project id="basicSale_b2b2c_back" values="fileset_autodetect_NONE" collectionTime="1528711484595" />
+      <project id="demosb" values="fileset_autodetect_NONE" collectionTime="1500025886765" />
+      <project id="front" values="fileset_autodetect_NONE" collectionTime="1508829671640" />
+      <project id="comprehensive" values="fileset_autodetect_com.intellij.spring.boot.model.SpringBootFileSet" collectionTime="1528908975117" />
+      <project id="dengjunwei" values="fileset_autodetect_com.intellij.spring.boot.model.SpringBootFileSet" collectionTime="1500093214920" />
+      <project id="springboot" values="fileset_autodetect_NONE" collectionTime="1500089620477" />
+      <project id="girl" values="fileset_autodetect_NONE,fileset_autodetect_com.intellij.spring.boot.model.SpringBootFileSet" collectionTime="1523930521411" />
+      <project id="demosb3" values="fileset_autodetect_com.intellij.spring.boot.model.SpringBootFileSet" collectionTime="1500089738685" />
+      <project id="cat" values="fileset_autodetect_com.intellij.spring.boot.model.SpringBootFileSet" collectionTime="1500295746341" />
+      <project id="EDM" values="fileset_autodetect_NONE,fileset_autodetect_NONE,fileset_autodetect_com.intellij.spring.web.config.ServletFileSet,fileset_autodetect_NONE,fileset_autodetect_com.intellij.spring.web.config.ServletFileSet" collectionTime="1531735338199" />
+      <project id="deng_junwei" values="fileset_autodetect_com.intellij.spring.boot.model.SpringBootFileSet" collectionTime="1500123559679" />
+      <project id="qydjk2.0_dev" values="fileset_autodetect_com.intellij.spring.web.config.ServletFileSet,fileset_autodetect_NONE,fileset_autodetect_com.intellij.spring.web.config.ServletFileSet,fileset_autodetect_com.intellij.spring.web.config.ServletFileSet,fileset_autodetect_com.intellij.spring.web.config.ServletFileSet,fileset_autodetect_com.intellij.spring.web.config.ServletFileSet,fileset_autodetect_NONE,fileset_autodetect_com.intellij.spring.web.config.ServletFileSet,fileset_autodetect_com.intellij.spring.web.config.ServletFileSet,fileset_autodetect_com.intellij.spring.web.config.ServletFileSet,fileset_autodetect_com.intellij.spring.web.config.ServletFileSet,fileset_autodetect_com.intellij.spring.web.config.ServletFileSet,fileset_autodetect_com.intellij.spring.web.config.ServletFileSet,fileset_autodetect_com.intellij.spring.web.config.ServletFileSet,fileset_autodetect_com.intellij.spring.web.config.ServletFileSet,fileset_autodetect_com.intellij.spring.web.config.ServletFileSet" collectionTime="1532599307912" />
+    </group>
+    <group name="Spring Boot Run">
+      <project id="demosb3" values="RunConfig_ActiveProfilesSet_OFF,RunConfigsPerProject_1,RunConfig_HideBanner_OFF,RunConfig_MainClass_Count_1,RunConfig_AdditionalParams_Total_0,RunConfig_EnableLaunchOptimization_ON,RunConfig_DebugMode_OFF" collectionTime="1500089738686" />
+      <project id="dengjunwei" values="RunConfig_ActiveProfilesSet_OFF,RunConfigsPerProject_1,RunConfig_AdditionalParams_Total_0,RunConfig_MainClass_Count_1,RunConfig_DebugMode_OFF,RunConfig_EnableLaunchOptimization_ON,RunConfig_HideBanner_OFF" collectionTime="1500093214924" />
+      <project id="deng_junwei" values="RunConfigsPerProject_1,RunConfig_DebugMode_OFF,RunConfig_ActiveProfilesSet_OFF,RunConfig_AdditionalParams_Total_0,RunConfig_MainClass_Count_1,RunConfig_EnableLaunchOptimization_ON,RunConfig_HideBanner_OFF" collectionTime="1500123559680" />
+      <project id="m" values="RunConfig_MainClass_Count_1,RunConfig_DebugMode_OFF,RunConfigsPerProject_1,RunConfig_AdditionalParams_Total_0,RunConfig_EnableLaunchOptimization_ON,RunConfig_HideBanner_OFF,RunConfig_ActiveProfilesSet_OFF" collectionTime="1500181038396" />
+      <project id="girl" values="RunConfig_EnableLaunchOptimization_ON,RunConfig_ActiveProfilesSet_OFF,RunConfigsPerProject_1,RunConfig_HideBanner_OFF,RunConfig_MainClass_Count_1,RunConfig_DebugMode_OFF,RunConfig_AdditionalParams_Total_0" collectionTime="1523930521415" />
+      <project id="cat" values="RunConfig_HideBanner_OFF,RunConfig_EnableLaunchOptimization_ON,RunConfig_AdditionalParams_Total_0,RunConfigsPerProject_1,RunConfig_ActiveProfilesSet_OFF,RunConfig_DebugMode_OFF,RunConfig_MainClass_Count_1" collectionTime="1500295746342" />
+      <project id="comprehensive" values="RunConfig_DebugMode_OFF,RunConfig_AdditionalParams_Total_0,RunConfig_MainClass_Count_1,RunConfig_EnableLaunchOptimization_ON,RunConfigsPerProject_1,RunConfig_HideBanner_OFF,RunConfig_ActiveProfilesSet_OFF" collectionTime="1528908975119" />
+    </group>
+    <group name="frameworks">
+      <project id="m" values="Spring" collectionTime="1500181038095" />
+      <project id="edm-java" values="Spring,web" collectionTime="1532670546712" />
+      <project id="back2.0" values="JRebel,Spring,web" collectionTime="1525324586171" />
+      <project id="basicSale_b2b2c_front" values="JRebel,web,Spring,Struts2" collectionTime="1529402637122" />
+      <project id="qydjk" values="Spring,web" collectionTime="1531726760845" />
+      <project id="basicSale_b2b2c_back" values="web,Spring" collectionTime="1528711484547" />
+      <project id="demosb" values="Spring" collectionTime="1500025886493" />
+      <project id="front" values="Spring,Struts2,web" collectionTime="1508829671580" />
+      <project id="comprehensive" values="Spring" collectionTime="1528908974872" />
+      <project id="dengjunwei" values="Spring" collectionTime="1500093214687" />
+      <project id="bean" values="hibernate" collectionTime="1532670550423" />
+      <project id="springboot" values="Spring" collectionTime="1500089620240" />
+      <project id="girl" values="Spring,Struts2,web,JRebel" collectionTime="1523930521265" />
+      <project id="demosb3" values="Spring" collectionTime="1500089738597" />
+      <project id="cat" values="Spring" collectionTime="1500295746300" />
+      <project id="EDM" values="Spring,web" collectionTime="1531735337677" />
+      <project id="deng_junwei" values="Spring" collectionTime="1500123559583" />
+      <project id="qydjk2.0_dev" values="Spring,web" collectionTime="1532599307584" />
+    </group>
+    <group name="javaScript Scope Usages">
+      <project id="m" values="Project" collectionTime="1500181038366" />
+      <project id="IdeaProjects" values="Project" collectionTime="1500023209878" />
+      <project id="edm-java" values="Project" collectionTime="1532670547083" />
+      <project id="demosb2" values="Project" collectionTime="1500025890151" />
+      <project id="demo" values="Project" collectionTime="1524132467988" />
+      <project id="back2.0" values="Project" collectionTime="1525324586279" />
+      <project id="basicSale_b2b2c_front" values="Project" collectionTime="1529402637253" />
+      <project id="qydjk" values="Project" collectionTime="1531726760909" />
+      <project id="basicSale_b2b2c_back" values="Project" collectionTime="1528711484595" />
+      <project id="my" values="Project" collectionTime="1530685271664" />
+      <project id="front" values="Project" collectionTime="1508829671640" />
+      <project id="comprehensive" values="Project" collectionTime="1528908975033" />
+      <project id="dengjunwei" values="Project" collectionTime="1500093214917" />
+      <project id="springboot" values="Project" collectionTime="1500089620474" />
+      <project id="front_end" values="Project" collectionTime="1532340049565" />
+      <project id="bean" values="Project" collectionTime="1532670550468" />
+      <project id="front_branch" values="Project" collectionTime="1509867714496" />
+      <project id="girl" values="Project" collectionTime="1523930521405" />
+      <project id="demosb3" values="Project" collectionTime="1500089738656" />
+      <project id="cat" values="Project" collectionTime="1500295746339" />
+      <project id="EDM" values="Project" collectionTime="1531735338036" />
+      <project id="demosb" values="Project" collectionTime="1500025886761" />
+      <project id="deng_junwei" values="Project" collectionTime="1500123559626" />
+      <project id="qydjk2.0_dev" values="Project" collectionTime="1532599307825" />
+    </group>
+    <group name="Git">
+      <project id="m" values="config.save.policy.STASH,config.warn.about.detached.enabled,config.update.type.BRANCH_DEFAULT,config.push.autoupdate.disabled,config.cherry-pick.autocommit.disabled,config.force.push.enabled,config.ssh.enabled,config.push.update.all.roots.enabled,config.warn.about.crlf.enabled,config.repo.sync.NOT_DECIDED" collectionTime="1500181038227" />
+      <project id="IdeaProjects" values="config.update.type.BRANCH_DEFAULT,config.warn.about.crlf.enabled,config.warn.about.detached.enabled,config.push.autoupdate.disabled,config.cherry-pick.autocommit.disabled,config.push.update.all.roots.enabled,config.save.policy.STASH,config.force.push.enabled,config.ssh.enabled,config.repo.sync.NOT_DECIDED" collectionTime="1500023209877" />
+      <project id="edm-java" values="config.ssh.enabled,data.local.branches.count.1,data.remotes.in.project.1,config.push.autoupdate.disabled,config.warn.about.detached.enabled,config.force.push.enabled,config.push.update.all.roots.enabled,config.update.type.MERGE,config.repo.sync.NOT_DECIDED,config.cherry-pick.autocommit.disabled,config.warn.about.crlf.enabled,data.remote.branches.count.1,config.save.policy.STASH" collectionTime="1532670546895" />
+      <project id="demosb2" values="config.cherry-pick.autocommit.disabled,config.save.policy.STASH,config.ssh.enabled,config.warn.about.crlf.enabled,config.update.type.BRANCH_DEFAULT,config.push.autoupdate.disabled,config.warn.about.detached.enabled,config.push.update.all.roots.enabled,config.repo.sync.NOT_DECIDED,config.force.push.enabled" collectionTime="1500025890150" />
+      <project id="demo" values="config.cherry-pick.autocommit.disabled,config.update.type.BRANCH_DEFAULT,config.push.autoupdate.disabled,config.warn.about.detached.enabled,config.push.update.all.roots.enabled,config.repo.sync.NOT_DECIDED,config.ssh.enabled,config.force.push.enabled,config.save.policy.STASH,config.warn.about.crlf.enabled" collectionTime="1524132467987" />
+      <project id="back2.0" values="config.ssh.enabled,config.force.push.enabled,config.warn.about.detached.enabled,config.push.autoupdate.disabled,config.warn.about.crlf.enabled,config.push.update.all.roots.enabled,config.save.policy.STASH,config.repo.sync.NOT_DECIDED,config.update.type.BRANCH_DEFAULT,config.cherry-pick.autocommit.disabled" collectionTime="1525324586277" />
+      <project id="basicSale_b2b2c_front" values="config.force.push.enabled,config.warn.about.detached.enabled,config.repo.sync.NOT_DECIDED,config.update.type.BRANCH_DEFAULT,config.warn.about.crlf.enabled,config.push.autoupdate.disabled,config.push.update.all.roots.enabled,config.cherry-pick.autocommit.disabled,config.save.policy.STASH,config.ssh.enabled" collectionTime="1529402637253" />
+      <project id="qydjk" values="config.force.push.enabled,config.cherry-pick.autocommit.disabled,config.ssh.enabled,config.repo.sync.NOT_DECIDED,config.push.autoupdate.disabled,config.push.update.all.roots.enabled,config.update.type.BRANCH_DEFAULT,config.warn.about.crlf.enabled,config.warn.about.detached.enabled,config.save.policy.STASH" collectionTime="1531726760909" />
+      <project id="basicSale_b2b2c_back" values="config.push.autoupdate.disabled,config.ssh.enabled,config.push.update.all.roots.enabled,config.warn.about.detached.enabled,config.save.policy.STASH,config.force.push.enabled,config.cherry-pick.autocommit.disabled,config.update.type.BRANCH_DEFAULT,config.warn.about.crlf.enabled,config.repo.sync.NOT_DECIDED" collectionTime="1528711484595" />
+      <project id="my" values="config.repo.sync.NOT_DECIDED,config.update.type.BRANCH_DEFAULT,config.force.push.enabled,config.cherry-pick.autocommit.disabled,config.push.update.all.roots.enabled,config.save.policy.STASH,config.push.autoupdate.disabled,config.warn.about.detached.enabled,config.warn.about.crlf.enabled,config.ssh.enabled" collectionTime="1530685271664" />
+      <project id="front" values="config.push.update.all.roots.enabled,config.ssh.enabled,config.force.push.enabled,config.warn.about.detached.enabled,config.cherry-pick.autocommit.disabled,config.save.policy.STASH,config.push.autoupdate.disabled,config.repo.sync.NOT_DECIDED,config.warn.about.crlf.enabled,config.update.type.BRANCH_DEFAULT" collectionTime="1508829671640" />
+      <project id="comprehensive" values="config.ssh.enabled,config.cherry-pick.autocommit.disabled,config.force.push.enabled,config.repo.sync.NOT_DECIDED,config.push.update.all.roots.enabled,config.update.type.BRANCH_DEFAULT,config.warn.about.crlf.enabled,config.save.policy.STASH,config.push.autoupdate.disabled,config.warn.about.detached.enabled" collectionTime="1528908975025" />
+      <project id="dengjunwei" values="config.push.autoupdate.disabled,config.update.type.BRANCH_DEFAULT,config.push.update.all.roots.enabled,config.save.policy.STASH,config.repo.sync.NOT_DECIDED,config.warn.about.crlf.enabled,config.force.push.enabled,config.warn.about.detached.enabled,config.cherry-pick.autocommit.disabled,config.ssh.enabled" collectionTime="1500093214777" />
+      <project id="springboot" values="config.ssh.enabled,config.warn.about.crlf.enabled,config.warn.about.detached.enabled,config.cherry-pick.autocommit.disabled,config.repo.sync.NOT_DECIDED,config.push.update.all.roots.enabled,config.force.push.enabled,config.save.policy.STASH,config.update.type.BRANCH_DEFAULT,config.push.autoupdate.disabled" collectionTime="1500089620285" />
+      <project id="front_end" values="config.save.policy.STASH,config.warn.about.crlf.enabled,config.update.type.BRANCH_DEFAULT,config.ssh.enabled,config.push.update.all.roots.enabled,config.cherry-pick.autocommit.disabled,config.force.push.enabled,config.push.autoupdate.disabled,config.repo.sync.NOT_DECIDED,config.warn.about.detached.enabled" collectionTime="1532340049564" />
+      <project id="bean" values="config.update.type.BRANCH_DEFAULT,config.warn.about.detached.enabled,config.ssh.enabled,config.repo.sync.NOT_DECIDED,config.push.autoupdate.disabled,config.warn.about.crlf.enabled,config.push.update.all.roots.enabled,config.force.push.enabled,config.cherry-pick.autocommit.disabled,config.save.policy.STASH" collectionTime="1532670550468" />
+      <project id="front_branch" values="config.warn.about.crlf.enabled,config.force.push.enabled,config.update.type.BRANCH_DEFAULT,config.cherry-pick.autocommit.disabled,config.ssh.enabled,config.push.autoupdate.disabled,config.push.update.all.roots.enabled,config.repo.sync.NOT_DECIDED,config.warn.about.detached.enabled,config.save.policy.STASH" collectionTime="1509867714496" />
+      <project id="girl" values="config.repo.sync.NOT_DECIDED,config.ssh.enabled,config.warn.about.crlf.enabled,config.force.push.enabled,config.cherry-pick.autocommit.disabled,config.push.update.all.roots.enabled,config.warn.about.detached.enabled,config.update.type.BRANCH_DEFAULT,config.push.autoupdate.disabled,config.save.policy.STASH" collectionTime="1523930521403" />
+      <project id="demosb3" values="config.ssh.enabled,config.force.push.enabled,config.repo.sync.NOT_DECIDED,config.warn.about.detached.enabled,config.push.update.all.roots.enabled,config.save.policy.STASH,config.warn.about.crlf.enabled,config.cherry-pick.autocommit.disabled,config.update.type.BRANCH_DEFAULT,config.push.autoupdate.disabled" collectionTime="1500089738655" />
+      <project id="cat" values="config.cherry-pick.autocommit.disabled,config.push.autoupdate.disabled,config.save.policy.STASH,config.warn.about.detached.enabled,config.force.push.enabled,config.ssh.enabled,config.repo.sync.NOT_DECIDED,config.update.type.BRANCH_DEFAULT,config.warn.about.crlf.enabled,config.push.update.all.roots.enabled" collectionTime="1500295746339" />
+      <project id="EDM" values="config.push.update.all.roots.enabled,config.ssh.enabled,config.push.autoupdate.disabled,config.save.policy.STASH,config.cherry-pick.autocommit.disabled,config.update.type.BRANCH_DEFAULT,config.warn.about.detached.enabled,config.force.push.enabled,config.repo.sync.NOT_DECIDED,config.warn.about.crlf.enabled" collectionTime="1531735337847" />
+      <project id="demosb" values="config.repo.sync.NOT_DECIDED,config.update.type.BRANCH_DEFAULT,config.cherry-pick.autocommit.disabled,config.warn.about.detached.enabled,config.warn.about.crlf.enabled,config.ssh.enabled,config.save.policy.STASH,config.push.update.all.roots.enabled,config.force.push.enabled,config.push.autoupdate.disabled" collectionTime="1500025886534" />
+      <project id="deng_junwei" values="config.push.autoupdate.disabled,config.warn.about.detached.enabled,config.ssh.enabled,config.repo.sync.NOT_DECIDED,config.warn.about.crlf.enabled,config.push.update.all.roots.enabled,config.force.push.enabled,config.cherry-pick.autocommit.disabled,config.save.policy.STASH,config.update.type.BRANCH_DEFAULT" collectionTime="1500123559626" />
+      <project id="qydjk2.0_dev" values="config.ssh.enabled,config.push.autoupdate.disabled,config.warn.about.detached.enabled,config.warn.about.crlf.enabled,config.repo.sync.NOT_DECIDED,config.push.update.all.roots.enabled,config.force.push.enabled,config.cherry-pick.autocommit.disabled,config.update.type.BRANCH_DEFAULT,config.save.policy.STASH" collectionTime="1532599307825" />
+    </group>
+    <group name="libraries">
+      <project id="m" values="spring,spring-boot,WebSocket,EJB,BeanValidation,spring-mvc" collectionTime="1500181038201" />
+      <project id="edm-java" values="TransactionJavaee,BeanValidation,spring,spring-mvc,hibernate" collectionTime="1532670546885" />
+      <project id="cat" values="BeanValidation,TransactionJavaee,hibernate,WebSocket,spring-mvc,spring,spring-data-jpa,spring-boot,EJB" collectionTime="1500295746332" />
+      <project id="back2.0" values="spring-mvc,TransactionJavaee,BeanValidation,hibernate,spring" collectionTime="1525324586270" />
+      <project id="basicSale_b2b2c_front" values="hibernate,TransactionJavaee,spring,jsf,struts2" collectionTime="1529402637246" />
+      <project id="qydjk" values="BeanValidation,TransactionJavaee,hibernate,spring-mvc,spring" collectionTime="1531726760905" />
+      <project id="basicSale_b2b2c_back" values="struts2,TransactionJavaee,jsf,hibernate,spring" collectionTime="1528711484591" />
+      <project id="front" values="hibernate,jsf,spring,TransactionJavaee,struts2" collectionTime="1508829671635" />
+      <project id="comprehensive" values="spring,spring-boot" collectionTime="1528908975022" />
+      <project id="bean" values="TransactionJavaee,JMS,EJB" collectionTime="1532670550467" />
+      <project id="girl" values="hibernate,spring-mvc,jsf,WebSocket,thymeleaf,spring-data-jpa,groovy,TransactionJavaee,struts2,EJB,spring,BeanValidation,spring-boot" collectionTime="1523930521383" />
+      <project id="demosb3" values="spring-mvc,spring-boot,WebSocket,EJB,spring,BeanValidation" collectionTime="1500089738651" />
+      <project id="EDM" values="BeanValidation,hibernate,TransactionJavaee,spring,spring-mvc" collectionTime="1531735337839" />
+      <project id="dengjunwei" values="BeanValidation,spring-boot,spring,EJB,spring-mvc,WebSocket" collectionTime="1500093214770" />
+      <project id="deng_junwei" values="spring-data-jpa,spring,spring-boot,WebSocket,spring-mvc,EJB,hibernate,TransactionJavaee,BeanValidation" collectionTime="1500123559621" />
+      <project id="qydjk2.0_dev" values="TransactionJavaee,spring-mvc,BeanValidation,hibernate,spring" collectionTime="1532599307822" />
+    </group>
+    <group name="Libraries by jars">
+      <project id="m" values="spring-core_4.3.9.RELEASE,spring-mvc_4.3.9.RELEASE,spring-boot_1.5.4.RELEASE" collectionTime="1500181038226" />
+      <project id="edm-java" values="spring-core_4.3.12.RELEASE,spring-mvc_4.3.12.RELEASE" collectionTime="1532670546893" />
+      <project id="basicSale_b2b2c_back" values="spring-core_3.0.5.RELEASE,spring-mvc_3.0.5.RELEASE,freemarker_2.3.22" collectionTime="1528711484595" />
+      <project id="back2.0" values="spring-core_4.3.12.RELEASE,spring-mvc_4.3.12.RELEASE" collectionTime="1525324586275" />
+      <project id="basicSale_b2b2c_front" values="spring-core_3.0.5.RELEASE,freemarker_2.3.22,spring-mvc_3.0.5.RELEASE" collectionTime="1529402637253" />
+      <project id="qydjk" values="spring-data-commons_1.12.5.RELEASE,spring-core_4.3.12.RELEASE,spring-mvc_4.3.12.RELEASE" collectionTime="1531726760909" />
+      <project id="deng_junwei" values="spring-boot_1.5.4.RELEASE,spring-core_4.3.9.RELEASE,spring-data-jpa_1.11.4.RELEASE,spring-mvc_4.3.9.RELEASE,spring-data-commons_1.13.4.RELEASE" collectionTime="1500123559625" />
+      <project id="front" values="spring-core_3.0.5.RELEASE,spring-mvc_3.0.5.RELEASE,freemarker_2.3.22" collectionTime="1508829671640" />
+      <project id="comprehensive" values="spring-core_5.0.6.RELEASE,spring-boot_2.0.2.RELEASE" collectionTime="1528908975025" />
+      <project id="EDM" values="spring-core_4.3.12.RELEASE,spring-mvc_4.3.12.RELEASE" collectionTime="1531735337846" />
+      <project id="girl" values="freemarker_2.3.22,groovy_2.4.11,spring-core_3.0.5.RELEASE,spring-mvc_4.3.9.RELEASE,thymeleaf_2.1.5.RELEASE,spring-mvc_3.0.5.RELEASE,spring-data-jpa_1.10.11.RELEASE,spring-core_4.3.9.RELEASE,spring-data-commons_1.12.11.RELEASE,spring-boot_1.4.7.RELEASE" collectionTime="1523930521402" />
+      <project id="demosb3" values="spring-boot_1.4.7.RELEASE,spring-core_4.3.9.RELEASE,spring-mvc_4.3.9.RELEASE" collectionTime="1500089738655" />
+      <project id="cat" values="spring-mvc_4.3.9.RELEASE,spring-core_4.3.9.RELEASE,spring-data-commons_1.12.11.RELEASE,spring-data-jpa_1.10.11.RELEASE,spring-boot_1.4.7.RELEASE" collectionTime="1500295746339" />
+      <project id="dengjunwei" values="spring-boot_1.5.4.RELEASE,spring-core_4.3.9.RELEASE,spring-mvc_4.3.9.RELEASE" collectionTime="1500093214774" />
+      <project id="qydjk2.0_dev" values="spring-mvc_4.3.12.RELEASE,spring-core_4.3.12.RELEASE" collectionTime="1532599307824" />
+    </group>
+    <group name="vcs-options">
+      <project id="m" values="commit.before.check.code.smell.enabled,show.changes.preview.disabled,commit.before.rearrange.disabled,perform.checkout.in.background.enabled,offer.remove.empty.changelist.show_confirmation,perform.update.in.background.enabled,offer.move.failed.committed.do_nothing_silently,commit.before.check.non.empty.comment.disabled,include.text.into.shelf.enabled,commit.before.check.todo.enabled,perform.add_remove.in.background.enabled,perform.edit.in.background.enabled,offer.move.partially.committed.disabled,perform.commit.in.background.enabled,changelist.preselect.existing.disabled,changelist.make.new.active.disabled,commit.before.check.files.up.to.date.disabled,commit.before.optimize.imports.disabled,check.conflicts.in.background.disabled,commit.before.reformat.project.disabled,commit.use.right.margin.enabled,commit.clear.initial.comment.disabled,perform.rollback.in.background.disabled,commit.show.unversioned.enabled,commit.before.check.code.cleanup.disabled,commit.before.reformat.file.disabled" collectionTime="1500181038094" />
+      <project id="IdeaProjects" values="perform.add_remove.in.background.enabled,offer.remove.empty.changelist.show_confirmation,commit.before.reformat.project.disabled,commit.show.unversioned.enabled,perform.edit.in.background.enabled,perform.update.in.background.enabled,perform.rollback.in.background.disabled,commit.before.check.todo.enabled,commit.before.check.code.smell.enabled,commit.before.check.code.cleanup.disabled,perform.commit.in.background.enabled,commit.before.reformat.file.disabled,commit.before.check.files.up.to.date.disabled,commit.before.check.non.empty.comment.disabled,check.conflicts.in.background.disabled,include.text.into.shelf.enabled,offer.move.failed.committed.do_nothing_silently,changelist.preselect.existing.disabled,commit.use.right.margin.enabled,commit.before.optimize.imports.disabled,commit.before.rearrange.disabled,offer.move.partially.committed.disabled,show.changes.preview.disabled,perform.checkout.in.background.enabled,commit.clear.initial.comment.disabled,changelist.make.new.active.disabled" collectionTime="1500023209859" />
+      <project id="edm-java" values="perform.add_remove.in.background.enabled,commit.clear.initial.comment.disabled,commit.use.right.margin.enabled,commit.before.reformat.project.disabled,show.changes.preview.disabled,commit.before.check.code.cleanup.disabled,offer.remove.empty.changelist.show_confirmation,changelist.preselect.existing.disabled,commit.before.check.todo.enabled,commit.before.optimize.imports.disabled,perform.checkout.in.background.enabled,perform.rollback.in.background.disabled,check.conflicts.in.background.disabled,perform.edit.in.background.enabled,include.text.into.shelf.enabled,commit.show.unversioned.enabled,offer.move.failed.committed.do_nothing_silently,commit.before.check.code.smell.enabled,commit.before.check.non.empty.comment.disabled,offer.move.partially.committed.disabled,perform.update.in.background.enabled,commit.before.check.files.up.to.date.disabled,commit.before.reformat.file.disabled,perform.commit.in.background.enabled,changelist.make.new.active.disabled,commit.before.rearrange.disabled" collectionTime="1532670546712" />
+      <project id="demosb2" values="commit.before.check.code.cleanup.disabled,offer.move.partially.committed.disabled,commit.clear.initial.comment.disabled,perform.checkout.in.background.enabled,commit.before.reformat.project.disabled,show.changes.preview.disabled,commit.before.check.code.smell.enabled,commit.show.unversioned.enabled,perform.rollback.in.background.disabled,commit.before.check.files.up.to.date.disabled,commit.before.check.non.empty.comment.disabled,changelist.make.new.active.disabled,offer.move.failed.committed.do_nothing_silently,commit.before.check.todo.enabled,perform.add_remove.in.background.enabled,check.conflicts.in.background.disabled,commit.before.reformat.file.disabled,commit.before.optimize.imports.disabled,perform.edit.in.background.enabled,perform.update.in.background.enabled,commit.use.right.margin.enabled,offer.remove.empty.changelist.show_confirmation,include.text.into.shelf.enabled,commit.before.rearrange.disabled,changelist.preselect.existing.disabled,perform.commit.in.background.enabled" collectionTime="1500025890123" />
+      <project id="demo" values="changelist.make.new.active.disabled,perform.rollback.in.background.disabled,include.text.into.shelf.enabled,perform.commit.in.background.enabled,commit.before.rearrange.disabled,offer.remove.empty.changelist.show_confirmation,show.changes.preview.disabled,offer.move.partially.committed.disabled,perform.update.in.background.enabled,commit.show.unversioned.enabled,commit.before.check.code.smell.enabled,changelist.preselect.existing.disabled,commit.clear.initial.comment.disabled,commit.before.check.non.empty.comment.disabled,commit.before.reformat.project.disabled,commit.before.optimize.imports.disabled,perform.edit.in.background.enabled,commit.before.check.code.cleanup.disabled,perform.checkout.in.background.enabled,commit.before.check.todo.enabled,commit.before.check.files.up.to.date.disabled,perform.add_remove.in.background.enabled,commit.use.right.margin.enabled,commit.before.reformat.file.disabled,check.conflicts.in.background.disabled,offer.move.failed.committed.do_nothing_silently" collectionTime="1524132467961" />
+      <project id="back2.0" values="commit.before.check.todo.enabled,commit.before.check.code.smell.enabled,offer.move.partially.committed.disabled,offer.move.failed.committed.do_nothing_silently,commit.clear.initial.comment.disabled,perform.update.in.background.enabled,perform.commit.in.background.enabled,check.conflicts.in.background.disabled,perform.rollback.in.background.disabled,commit.before.reformat.file.disabled,commit.use.right.margin.enabled,commit.before.check.non.empty.comment.disabled,perform.checkout.in.background.enabled,commit.before.check.files.up.to.date.disabled,commit.before.check.code.cleanup.disabled,changelist.make.new.active.disabled,commit.before.optimize.imports.disabled,changelist.preselect.existing.disabled,commit.before.reformat.project.disabled,perform.edit.in.background.enabled,perform.add_remove.in.background.enabled,commit.before.rearrange.disabled,include.text.into.shelf.enabled,offer.remove.empty.changelist.show_confirmation,show.changes.preview.disabled,commit.show.unversioned.enabled" collectionTime="1525324586170" />
+      <project id="basicSale_b2b2c_front" values="commit.before.check.code.cleanup.disabled,offer.remove.empty.changelist.show_confirmation,commit.before.rearrange.disabled,show.changes.preview.disabled,perform.rollback.in.background.disabled,perform.edit.in.background.enabled,offer.move.partially.committed.disabled,changelist.make.new.active.disabled,perform.checkout.in.background.enabled,commit.show.unversioned.enabled,commit.clear.initial.comment.disabled,check.conflicts.in.background.disabled,commit.before.check.code.smell.enabled,include.text.into.shelf.enabled,perform.commit.in.background.enabled,changelist.preselect.existing.disabled,commit.before.reformat.file.disabled,perform.update.in.background.enabled,commit.before.reformat.project.disabled,commit.before.check.non.empty.comment.disabled,commit.use.right.margin.enabled,offer.move.failed.committed.do_nothing_silently,commit.before.check.todo.enabled,commit.before.optimize.imports.disabled,commit.before.check.files.up.to.date.disabled,perform.add_remove.in.background.enabled" collectionTime="1529402637122" />
+      <project id="qydjk" values="show.changes.preview.disabled,perform.edit.in.background.enabled,commit.show.unversioned.enabled,check.conflicts.in.background.disabled,commit.before.check.non.empty.comment.disabled,commit.before.check.code.smell.enabled,commit.before.check.code.cleanup.disabled,perform.update.in.background.enabled,offer.move.failed.committed.do_nothing_silently,commit.before.optimize.imports.disabled,offer.remove.empty.changelist.show_confirmation,include.text.into.shelf.enabled,commit.before.reformat.project.disabled,offer.move.partially.committed.disabled,changelist.make.new.active.disabled,commit.before.check.files.up.to.date.disabled,commit.clear.initial.comment.disabled,commit.before.rearrange.disabled,commit.use.right.margin.enabled,perform.commit.in.background.enabled,commit.before.check.todo.enabled,perform.checkout.in.background.enabled,changelist.preselect.existing.disabled,commit.before.reformat.file.disabled,perform.rollback.in.background.disabled,perform.add_remove.in.background.enabled" collectionTime="1531726760845" />
+      <project id="basicSale_b2b2c_back" values="commit.before.check.non.empty.comment.disabled,commit.before.reformat.file.disabled,perform.update.in.background.enabled,perform.checkout.in.background.enabled,check.conflicts.in.background.disabled,perform.rollback.in.background.disabled,commit.clear.initial.comment.disabled,perform.commit.in.background.enabled,commit.show.unversioned.enabled,include.text.into.shelf.enabled,changelist.make.new.active.disabled,commit.before.check.todo.enabled,offer.move.failed.committed.do_nothing_silently,commit.before.check.files.up.to.date.disabled,commit.before.check.code.smell.enabled,offer.move.partially.committed.disabled,commit.before.rearrange.disabled,perform.add_remove.in.background.enabled,commit.before.optimize.imports.disabled,offer.remove.empty.changelist.show_confirmation,commit.before.check.code.cleanup.disabled,commit.before.reformat.project.disabled,show.changes.preview.disabled,perform.edit.in.background.enabled,commit.use.right.margin.enabled,changelist.preselect.existing.disabled" collectionTime="1528711484547" />
+      <project id="my" values="perform.commit.in.background.enabled,perform.checkout.in.background.enabled,changelist.make.new.active.disabled,commit.before.check.todo.enabled,offer.move.partially.committed.disabled,commit.before.check.code.cleanup.disabled,perform.update.in.background.enabled,include.text.into.shelf.enabled,changelist.preselect.existing.disabled,commit.before.check.files.up.to.date.disabled,commit.clear.initial.comment.disabled,commit.use.right.margin.enabled,commit.before.rearrange.disabled,commit.before.optimize.imports.disabled,perform.add_remove.in.background.enabled,commit.before.reformat.project.disabled,offer.move.failed.committed.do_nothing_silently,offer.remove.empty.changelist.show_confirmation,show.changes.preview.disabled,commit.show.unversioned.enabled,commit.before.check.code.smell.enabled,commit.before.reformat.file.disabled,check.conflicts.in.background.disabled,perform.edit.in.background.enabled,commit.before.check.non.empty.comment.disabled,perform.rollback.in.background.disabled" collectionTime="1530685271652" />
+      <project id="front" values="commit.before.check.code.cleanup.disabled,commit.before.rearrange.disabled,commit.before.check.todo.enabled,commit.use.right.margin.enabled,perform.edit.in.background.enabled,perform.add_remove.in.background.enabled,offer.move.failed.committed.do_nothing_silently,commit.before.check.files.up.to.date.disabled,changelist.preselect.existing.disabled,offer.remove.empty.changelist.show_confirmation,include.text.into.shelf.enabled,offer.move.partially.committed.disabled,check.conflicts.in.background.disabled,commit.before.reformat.file.disabled,perform.checkout.in.background.enabled,perform.update.in.background.enabled,commit.before.check.code.smell.enabled,changelist.make.new.active.disabled,commit.before.reformat.project.disabled,commit.clear.initial.comment.disabled,perform.commit.in.background.enabled,show.changes.preview.disabled,commit.before.check.non.empty.comment.disabled,commit.before.optimize.imports.disabled,perform.rollback.in.background.disabled,commit.show.unversioned.enabled" collectionTime="1508829671580" />
+      <project id="comprehensive" values="commit.before.check.code.smell.enabled,perform.edit.in.background.enabled,commit.before.check.code.cleanup.disabled,changelist.preselect.existing.disabled,perform.checkout.in.background.enabled,perform.commit.in.background.enabled,commit.before.reformat.project.disabled,perform.update.in.background.enabled,commit.before.optimize.imports.disabled,commit.clear.initial.comment.disabled,commit.before.check.files.up.to.date.disabled,offer.move.partially.committed.disabled,perform.rollback.in.background.disabled,perform.add_remove.in.background.enabled,changelist.make.new.active.disabled,commit.before.rearrange.disabled,include.text.into.shelf.enabled,commit.show.unversioned.enabled,commit.before.check.todo.enabled,commit.before.reformat.file.disabled,commit.use.right.margin.enabled,offer.move.failed.committed.do_nothing_silently,check.conflicts.in.background.disabled,offer.remove.empty.changelist.show_confirmation,commit.before.check.non.empty.comment.disabled,show.changes.preview.disabled" collectionTime="1528908974872" />
+      <project id="dengjunwei" values="commit.use.right.margin.enabled,perform.edit.in.background.enabled,perform.checkout.in.background.enabled,commit.before.rearrange.disabled,show.changes.preview.disabled,perform.update.in.background.enabled,commit.clear.initial.comment.disabled,check.conflicts.in.background.disabled,perform.add_remove.in.background.enabled,commit.before.check.files.up.to.date.disabled,changelist.make.new.active.disabled,commit.before.check.todo.enabled,commit.before.reformat.project.disabled,commit.before.reformat.file.disabled,changelist.preselect.existing.disabled,perform.rollback.in.background.disabled,commit.show.unversioned.enabled,include.text.into.shelf.enabled,perform.commit.in.background.enabled,commit.before.check.code.smell.enabled,commit.before.check.code.cleanup.disabled,offer.move.partially.committed.disabled,commit.before.check.non.empty.comment.disabled,offer.remove.empty.changelist.show_confirmation,offer.move.failed.committed.do_nothing_silently,commit.before.optimize.imports.disabled" collectionTime="1500093214687" />
+      <project id="springboot" values="commit.before.check.files.up.to.date.disabled,perform.add_remove.in.background.enabled,perform.commit.in.background.enabled,changelist.preselect.existing.disabled,offer.remove.empty.changelist.show_confirmation,show.changes.preview.disabled,commit.before.check.code.smell.enabled,perform.update.in.background.enabled,offer.move.failed.committed.do_nothing_silently,commit.clear.initial.comment.disabled,commit.use.right.margin.enabled,commit.before.rearrange.disabled,perform.edit.in.background.enabled,commit.before.reformat.project.disabled,check.conflicts.in.background.disabled,perform.checkout.in.background.enabled,commit.before.reformat.file.disabled,commit.before.check.todo.enabled,perform.rollback.in.background.disabled,changelist.make.new.active.disabled,offer.move.partially.committed.disabled,commit.before.check.code.cleanup.disabled,commit.before.optimize.imports.disabled,commit.before.check.non.empty.comment.disabled,include.text.into.shelf.enabled,commit.show.unversioned.enabled" collectionTime="1500089620240" />
+      <project id="front_end" values="check.conflicts.in.background.disabled,changelist.preselect.existing.disabled,changelist.make.new.active.disabled,perform.update.in.background.enabled,offer.move.partially.committed.disabled,include.text.into.shelf.enabled,commit.before.check.code.cleanup.disabled,offer.remove.empty.changelist.show_confirmation,perform.add_remove.in.background.enabled,perform.checkout.in.background.enabled,commit.before.optimize.imports.disabled,commit.before.check.code.smell.enabled,perform.edit.in.background.enabled,commit.before.check.todo.enabled,commit.before.check.non.empty.comment.disabled,commit.before.reformat.project.disabled,commit.use.right.margin.enabled,commit.before.check.files.up.to.date.disabled,commit.clear.initial.comment.disabled,perform.commit.in.background.enabled,commit.before.reformat.file.disabled,offer.move.failed.committed.do_nothing_silently,perform.rollback.in.background.disabled,show.changes.preview.disabled,commit.before.rearrange.disabled,commit.show.unversioned.enabled" collectionTime="1532340049534" />
+      <project id="bean" values="changelist.make.new.active.disabled,changelist.preselect.existing.disabled,commit.use.right.margin.enabled,commit.clear.initial.comment.disabled,commit.before.check.code.cleanup.disabled,commit.before.optimize.imports.disabled,show.changes.preview.disabled,commit.before.check.todo.enabled,perform.rollback.in.background.disabled,commit.before.check.non.empty.comment.disabled,perform.add_remove.in.background.enabled,commit.before.check.files.up.to.date.disabled,perform.commit.in.background.enabled,commit.before.check.code.smell.enabled,check.conflicts.in.background.disabled,include.text.into.shelf.enabled,perform.update.in.background.enabled,offer.move.partially.committed.disabled,perform.edit.in.background.enabled,perform.checkout.in.background.enabled,offer.remove.empty.changelist.show_confirmation,offer.move.failed.committed.do_nothing_silently,commit.before.reformat.file.disabled,commit.before.reformat.project.disabled,commit.show.unversioned.enabled,commit.before.rearrange.disabled" collectionTime="1532670550423" />
+      <project id="front_branch" values="commit.clear.initial.comment.disabled,commit.use.right.margin.enabled,commit.before.check.files.up.to.date.disabled,commit.before.optimize.imports.disabled,perform.rollback.in.background.disabled,commit.before.reformat.file.disabled,perform.checkout.in.background.enabled,perform.commit.in.background.enabled,commit.before.check.non.empty.comment.disabled,changelist.preselect.existing.disabled,changelist.make.new.active.disabled,perform.add_remove.in.background.enabled,commit.before.reformat.project.disabled,include.text.into.shelf.enabled,commit.before.check.todo.enabled,check.conflicts.in.background.disabled,commit.before.rearrange.disabled,offer.remove.empty.changelist.show_confirmation,show.changes.preview.disabled,commit.before.check.code.smell.enabled,offer.move.failed.committed.do_nothing_silently,commit.show.unversioned.enabled,perform.update.in.background.enabled,perform.edit.in.background.enabled,offer.move.partially.committed.disabled,commit.before.check.code.cleanup.disabled" collectionTime="1509867714487" />
+      <project id="girl" values="commit.show.unversioned.enabled,commit.clear.initial.comment.disabled,show.changes.preview.disabled,commit.before.check.files.up.to.date.disabled,perform.update.in.background.enabled,offer.move.failed.committed.do_nothing_silently,changelist.make.new.active.disabled,commit.before.check.non.empty.comment.disabled,commit.before.reformat.file.disabled,include.text.into.shelf.enabled,commit.before.optimize.imports.disabled,offer.move.partially.committed.disabled,commit.before.check.todo.enabled,perform.rollback.in.background.disabled,perform.edit.in.background.enabled,commit.before.rearrange.disabled,perform.add_remove.in.background.enabled,offer.remove.empty.changelist.show_confirmation,check.conflicts.in.background.disabled,changelist.preselect.existing.disabled,perform.commit.in.background.enabled,commit.use.right.margin.enabled,commit.before.reformat.project.disabled,commit.before.check.code.smell.enabled,commit.before.check.code.cleanup.disabled,perform.checkout.in.background.enabled" collectionTime="1523930521265" />
+      <project id="demosb3" values="commit.before.check.non.empty.comment.disabled,commit.before.check.todo.enabled,changelist.preselect.existing.disabled,perform.update.in.background.enabled,check.conflicts.in.background.disabled,commit.before.rearrange.disabled,perform.rollback.in.background.disabled,commit.use.right.margin.enabled,offer.remove.empty.changelist.show_confirmation,show.changes.preview.disabled,commit.show.unversioned.enabled,include.text.into.shelf.enabled,offer.move.failed.committed.do_nothing_silently,perform.checkout.in.background.enabled,perform.commit.in.background.enabled,commit.before.reformat.file.disabled,commit.before.check.code.smell.enabled,offer.move.partially.committed.disabled,commit.before.optimize.imports.disabled,commit.before.check.code.cleanup.disabled,commit.clear.initial.comment.disabled,commit.before.reformat.project.disabled,commit.before.check.files.up.to.date.disabled,perform.add_remove.in.background.enabled,perform.edit.in.background.enabled,changelist.make.new.active.disabled" collectionTime="1500089738597" />
+      <project id="cat" values="commit.before.reformat.file.disabled,perform.add_remove.in.background.enabled,commit.before.rearrange.disabled,show.changes.preview.disabled,perform.edit.in.background.enabled,offer.move.partially.committed.disabled,commit.clear.initial.comment.disabled,commit.before.optimize.imports.disabled,commit.use.right.margin.enabled,commit.before.check.todo.enabled,commit.before.check.code.cleanup.disabled,perform.commit.in.background.enabled,perform.rollback.in.background.disabled,changelist.preselect.existing.disabled,offer.remove.empty.changelist.show_confirmation,perform.update.in.background.enabled,commit.before.reformat.project.disabled,include.text.into.shelf.enabled,commit.show.unversioned.enabled,changelist.make.new.active.disabled,offer.move.failed.committed.do_nothing_silently,commit.before.check.code.smell.enabled,check.conflicts.in.background.disabled,commit.before.check.files.up.to.date.disabled,commit.before.check.non.empty.comment.disabled,perform.checkout.in.background.enabled" collectionTime="1500295746300" />
+      <project id="EDM" values="changelist.make.new.active.disabled,perform.edit.in.background.enabled,offer.move.partially.committed.disabled,commit.before.check.non.empty.comment.disabled,commit.before.reformat.file.disabled,perform.update.in.background.enabled,show.changes.preview.disabled,offer.move.failed.committed.do_nothing_silently,commit.use.right.margin.enabled,commit.before.check.code.cleanup.disabled,commit.before.check.files.up.to.date.disabled,commit.before.rearrange.disabled,changelist.preselect.existing.disabled,offer.remove.empty.changelist.show_confirmation,perform.add_remove.in.background.enabled,commit.before.optimize.imports.disabled,check.conflicts.in.background.disabled,include.text.into.shelf.enabled,perform.rollback.in.background.disabled,perform.commit.in.background.enabled,commit.show.unversioned.enabled,commit.clear.initial.comment.disabled,commit.before.check.code.smell.enabled,commit.before.check.todo.enabled,perform.checkout.in.background.enabled,commit.before.reformat.project.disabled" collectionTime="1531735337677" />
+      <project id="demosb" values="changelist.preselect.existing.disabled,perform.rollback.in.background.disabled,perform.add_remove.in.background.enabled,offer.remove.empty.changelist.show_confirmation,offer.move.failed.committed.do_nothing_silently,offer.move.partially.committed.disabled,changelist.make.new.active.disabled,commit.before.rearrange.disabled,commit.clear.initial.comment.disabled,commit.before.optimize.imports.disabled,commit.before.check.code.cleanup.disabled,include.text.into.shelf.enabled,commit.before.check.todo.enabled,commit.before.check.non.empty.comment.disabled,perform.checkout.in.background.enabled,perform.commit.in.background.enabled,commit.use.right.margin.enabled,commit.before.reformat.project.disabled,perform.update.in.background.enabled,commit.before.check.files.up.to.date.disabled,commit.show.unversioned.enabled,commit.before.check.code.smell.enabled,perform.edit.in.background.enabled,check.conflicts.in.background.disabled,commit.before.reformat.file.disabled,show.changes.preview.disabled" collectionTime="1500025886492" />
+      <project id="deng_junwei" values="include.text.into.shelf.enabled,offer.move.partially.committed.disabled,perform.update.in.background.enabled,perform.add_remove.in.background.enabled,offer.move.failed.committed.do_nothing_silently,commit.clear.initial.comment.disabled,perform.commit.in.background.enabled,commit.before.check.files.up.to.date.disabled,commit.before.reformat.project.disabled,commit.before.check.code.smell.enabled,check.conflicts.in.background.disabled,commit.before.reformat.file.disabled,perform.edit.in.background.enabled,changelist.preselect.existing.disabled,commit.before.check.non.empty.comment.disabled,commit.before.check.todo.enabled,show.changes.preview.disabled,commit.before.check.code.cleanup.disabled,commit.before.rearrange.disabled,commit.show.unversioned.enabled,changelist.make.new.active.disabled,commit.use.right.margin.enabled,perform.rollback.in.background.disabled,offer.remove.empty.changelist.show_confirmation,perform.checkout.in.background.enabled,commit.before.optimize.imports.disabled" collectionTime="1500123559583" />
+      <project id="qydjk2.0_dev" values="commit.use.right.margin.enabled,offer.remove.empty.changelist.show_confirmation,commit.before.check.code.cleanup.disabled,perform.commit.in.background.enabled,commit.before.rearrange.disabled,perform.update.in.background.enabled,perform.checkout.in.background.enabled,commit.before.check.todo.enabled,commit.before.check.non.empty.comment.disabled,include.text.into.shelf.enabled,offer.move.partially.committed.disabled,perform.add_remove.in.background.enabled,commit.before.check.code.smell.enabled,perform.edit.in.background.enabled,perform.rollback.in.background.disabled,commit.before.optimize.imports.disabled,commit.before.check.files.up.to.date.disabled,changelist.preselect.existing.disabled,show.changes.preview.disabled,check.conflicts.in.background.disabled,offer.move.failed.committed.do_nothing_silently,commit.clear.initial.comment.disabled,changelist.make.new.active.disabled,commit.before.reformat.project.disabled,commit.show.unversioned.enabled,commit.before.reformat.file.disabled" collectionTime="1532599307584" />
+    </group>
+  </component>
+  <component name="UsageTrigger">
+    <counts>
+      <entry feature="CreateFile.CreateFileAction" count="5" />
+      <entry feature="CreateFile.CreateSpringConfigAction" count="1" />
+      <entry feature="OpenInBrowser.Chrome" count="242" />
+      <entry feature="OpenInBrowser.Firefox" count="1" />
+      <entry feature="StripeButton[Version_Control].shown" count="9" />
+      <entry feature="debugger.reload.classes" count="5075" />
+      <entry feature="execute.#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory.Coverage" count="3" />
+      <entry feature="execute.#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory.Debug" count="6336" />
+      <entry feature="execute.#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory.JRebel Debug" count="42" />
+      <entry feature="execute.#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory.Run" count="26" />
+      <entry feature="execute.Application.Debug" count="18" />
+      <entry feature="execute.Application.JRebel Debug" count="1" />
+      <entry feature="execute.Application.Run" count="9" />
+      <entry feature="execute.JUnit.Coverage" count="2" />
+      <entry feature="execute.JUnit.Debug" count="576" />
+      <entry feature="execute.JUnit.Run" count="41" />
+      <entry feature="execute.SpringBootApplicationConfigurationType.Debug" count="38" />
+      <entry feature="execute.SpringBootApplicationConfigurationType.Run" count="141" />
+      <entry feature="ide.help.Configure_Library_Dialog" count="1" />
+      <entry feature="ide.help.ideaInterface.editor" count="2" />
+      <entry feature="ide.help.preferences.database" count="1" />
+      <entry feature="ide.help.select.path.dialog" count="1" />
+      <entry feature="ide.help.spring.managing.file.sets" count="3" />
+      <entry feature="ide.help.top" count="1" />
+      <entry feature="ide.settings.Advanced" count="2" />
+      <entry feature="ide.settings.Application&#10;Servers" count="4" />
+      <entry feature="ide.settings.Auto_Import" count="3" />
+      <entry feature="ide.settings.Code_Completion" count="1" />
+      <entry feature="ide.settings.Compiler" count="2" />
+      <entry feature="ide.settings.Console_Font" count="5" />
+      <entry feature="ide.settings.Editor_Tabs" count="3" />
+      <entry feature="ide.settings.File_Encodings" count="3" />
+      <entry feature="ide.settings.File_and_Code_Templates" count="4" />
+      <entry feature="ide.settings.Font" count="19" />
+      <entry feature="ide.settings.General" count="2" />
+      <entry feature="ide.settings.Ignored_Files" count="2" />
+      <entry feature="ide.settings.Importing" count="1" />
+      <entry feature="ide.settings.Intentions" count="1" />
+      <entry feature="ide.settings.JRebel" count="2" />
+      <entry feature="ide.settings.Keymap" count="5" />
+      <entry feature="ide.settings.Live_Templates" count="28" />
+      <entry feature="ide.settings.Maven" count="41" />
+      <entry feature="ide.settings.Plugins" count="1" />
+      <entry feature="ide.settings.Project_Structure" count="3" />
+      <entry feature="ide.settings.Subversion" count="2" />
+      <entry feature="ide.settings.System_Settings" count="1" />
+      <entry feature="ide.settings.Tomcat_Server" count="3" />
+      <entry feature="ide.settings.Updates" count="1" />
+      <entry feature="ide.settings.Version_Control" count="4" />
+      <entry feature="idea.caches.invalidated" count="8" />
+      <entry feature="ideaapp.started" count="308" />
+      <entry feature="spring.SpringConfigurationCheck.FileCount.java" count="4" />
+      <entry feature="spring.SpringConfigurationCheck.FileCount.xml" count="5739" />
+      <entry feature="spring.SpringConfigurationCheckTask.ShowFacet" count="3" />
+      <entry feature="terminal.win" count="9" />
+      <entry feature="tips.of.the.day.next" count="258" />
+      <entry feature="tips.of.the.day.prev" count="2" />
+      <entry feature="uml.ShowDiagram.JAVA.popup" count="1" />
+      <entry feature="uml.ShowDiagram.MAVEN" count="24" />
+      <entry feature="vcs.log.Refresh" count="5" />
+      <entry feature="welcome.screen.WelcomeScreen.Configure" count="7" />
+      <entry feature="welcome.screen.WelcomeScreen.CreateNewProject" count="9" />
+      <entry feature="welcome.screen.WelcomeScreen.GetFromVcs" count="2" />
+      <entry feature="welcome.screen.WelcomeScreen.OpenProject" count="5" />
+      <entry feature="welcome.screen.WelcomeScreen.Settings" count="7" />
+    </counts>
+  </component>
+</application>

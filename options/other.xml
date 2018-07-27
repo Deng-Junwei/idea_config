@@ -1,0 +1,37 @@
+<application>
+  <component name="PersistenceGenerationSettings">
+    <option name="entitySuffix" value="" />
+    <option name="generateDefaultRelationships" value="true" />
+    <option name="preferPrimitiveTypes" value="false" />
+    <option name="ENTITY_SUFFIX" value="" />
+    <option name="PREFER_PRIMITIVE_TYPES" value="false" />
+    <option name="GENERATE_DEFAULT_RELATIONSHIPS" value="true" />
+  </component>
+  <component name="RefactoringSettings">
+    <option name="RENAME_SEARCH_IN_COMMENTS_FOR_PACKAGE" value="false" />
+    <option name="RENAME_SEARCH_FOR_TEXT_FOR_PACKAGE" value="false" />
+    <option name="INTRODUCE_LOCAL_CREATE_FINALS" value="false" />
+  </component>
+  <component name="SvnApplicationSettings">
+    <option name="myCheckoutURLs">
+      <list>
+        <option value="svn://119.23.34.46:3690/qydjk2.0_dev" />
+        <option value="https://192.168.0.56/svn/qydjk2.0/qydjk2.0_dev" />
+        <option value="https://192.168.0.56/svn/qydjk_idea/qydjk_front/branches/release1.1_2017.10.24_branck" />
+        <option value="https://192.168.0.56/svn/qydjk_idea/qydjk_back/trunk" />
+        <option value="https://192.168.0.56/svn/qydjk_idea/qydjk_front/trunk" />
+      </list>
+    </option>
+    <option name="myTypedURLs">
+      <list>
+        <option value="svn://119.23.34.46:3690/qydjk2.0_dev" />
+        <option value="https://192.168.0.56/svn/qydjk2.0/qydjk2.0_dev" />
+        <option value="https://192.168.0.56/svn/qydjk_idea/qydjk_front/branches/release1.1_2017.10.24_branck" />
+        <option value="https://192.168.0.56/svn/qydjk_idea/qydjk_front/branches/release1.0.1_2017.10.23_branch" />
+        <option value="https://192.168.0.56/svn/qydjk_idea/qydjk_back/trunk" />
+        <option value="https://192.168.0.56/svn/qydjk_idea/qydjk_front/trunk" />
+      </list>
+    </option>
+    <option name="mySvnCommandLine" value="D:\soft\svn\bin\svn.exe" />
+  </component>
+</application>

@@ -1,0 +1,52 @@
+<templateSet group="customer">
+  <template name="pi" value="private Integer $VAR1$;" description="" toReformat="false" toShortenFQNames="true">
+    <variable name="VAR1" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="ps" value="private String $VAR1$;" description="" toReformat="false" toShortenFQNames="true">
+    <variable name="VAR1" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="pd" value="private Date $VAR$;" description="" toReformat="false" toShortenFQNames="true">
+    <variable name="VAR" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="pb" value="private BigDecimal $VAR$;" description="" toReformat="false" toShortenFQNames="true">
+    <variable name="VAR" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="pvs" value="public void $VAR1$() {&#10;    $VAR2$&#10;}" description="public void  --service" toReformat="false" toShortenFQNames="true">
+    <variable name="VAR1" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="VAR2" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="pps" value="public PaginationInfo methodName(xxxDTO DTO) throws Exception {&#10;    HibernatePage hibernatePage = DTO.getHibernatePage();&#10;&#10;    String sql = &quot;\tSELECT &quot;;&#10;    //根据需要查询不同字段&#10;    if (DTO.getReturnType() == 0){&#10;        sql += &quot;column&quot;;&#10;    }else if (DTO.getReturnType() == 1){&#10;        sql += &quot;column&quot;;&#10;    }&#10;    //统计字段&#10;    String countSql = &quot;SELECT COUNT(*) &quot;;&#10;&#10;    StringBuilder connectSql = new StringBuilder();&#10;    &#10;    //查询表&#10;    connectSql.append(&quot;\tFROM table\n&quot;);&#10;    &#10;    connectSql.append(&quot;\tWHERE 1=1 \n&quot;);&#10;    //根据需要加条件&#10;    if (DTO.getStatus() != StatusEnum.ALL.getId()){&#10;        connectSql.append(&quot;\tAND xxx.`status` = &quot;+DTO.getStatus());&#10;    }&#10;    &#10;    //排序规则&#10;    if (!StringUtil.isEmptyOrNull(DTO.getOrderByColumn())){&#10;        connectSql.append(&quot;\t ORDER BY &quot;+DTO.getOrderByColumn()+&quot; &quot;+DTO.getOrderByType());&#10;    }&#10;    &#10;    List&lt;Map&lt;String, Object&gt;&gt; list = null;&#10;    //是否查询列表&#10;    if (DTO.isQueryList()) {&#10;        if (hibernatePage != null) {&#10;            //分页&#10;            list = baseDao.findMapBySQL(sql+connectSql, hibernatePage);&#10;        } else {&#10;            //不分页&#10;            list = baseDao.findMapBySQL(sql+connectSql);&#10;        }&#10;    }&#10;    &#10;    int total = 0;&#10;    //是否统计总条数&#10;    if (DTO.isCount()){&#10;        total = baseDao.getRecordCountSQL(countSql+connectSql);&#10;    }&#10;    &#10;    return  new PaginationInfo(total,list);&#10;}" description="创建分页方法" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="poc" value="@RequestMapping(&quot;/$VAR1$.do&quot;)&#10;@ResponseBody&#10;public Object $VAR1$() {&#10;    try {&#10;        $VAR3$&#10;        return renderSuccess(&quot;成功&quot;);&#10;    } catch (Exception e) {&#10;        e.printStackTrace();&#10;        return renderError(&quot;失败&quot;);&#10;    }&#10;}" description="public object  --controller" toReformat="false" toShortenFQNames="true">
+    <variable name="VAR1" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="VAR3" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="psc" value="@RequestMapping(&quot;/$VAR1$.do&quot;)&#10;public String $VAR1$() {&#10;    try {&#10;        $VAR3$&#10;    } catch (Exception e) {&#10;        e.printStackTrace();&#10;    }&#10;    return &quot;&quot;;&#10;}" description="public string --controller" toReformat="false" toShortenFQNames="true">
+    <variable name="VAR1" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="VAR3" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+</templateSet>
